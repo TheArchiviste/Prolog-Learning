@@ -26,3 +26,14 @@ rshift(L1,N,L2) :- N \= 0,
     split(L1,TL,T1,T2),
     concat1(T2,T1,L2).
 
+
+sunny(mon).
+sunny(tue).
+sunny(wed).
+warm(mon).
+warm(wed).
+glorious(Day) :- sunny(Day), warm(Day).
+
+
+even(0).
+even(N) :- N > 0, N1 is N-2, even(N1).
