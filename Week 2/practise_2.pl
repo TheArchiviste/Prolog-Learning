@@ -37,3 +37,7 @@ glorious(Day) :- sunny(Day), warm(Day).
 
 even(0).
 even(N) :- N > 0, N1 is N-2, even(N1).
+
+
+myappend([],Z,Z).
+myappend([X|Y],Z,[X|W]) :- myappend(Y,Z,W).
