@@ -17,9 +17,5 @@ Prolog (Programming in Logic) is a declarative programming language that excels 
 - [x] Backtracking
 
 ## 🛠️ Projects & Exercises
-As I progress, I will be working on the following:
 - ✅ Basic Family Tree Implementation
 - ✅ Simple Knowledge Base
-
-Happy coding! 😊
-
