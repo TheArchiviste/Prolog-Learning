@@ -1,6 +1,6 @@
 # Prolog Learning Journey
 
-Welcome to my Prolog learning journey! This repository serves as a documentation of my progress, key takeaways, and projects as I explore the world of logic programming with Prolog.
+Welcome to my Prolog learning journey! This repository serves as a documentation of my progress, key takeaways, and projects in logic programming with Prolog.
 
 ## 🚀 Why Prolog?
 Prolog (Programming in Logic) is a declarative programming language that excels in symbolic reasoning, pattern matching, and solving problems involving rule-based logic. It is widely used in artificial intelligence, natural language processing.
