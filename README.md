@@ -9,7 +9,6 @@ Prolog (Programming in Logic) is a declarative programming language that excels 
 - Understand the fundamental syntax and semantics of Prolog.
 - Master recursion and backtracking in Prolog programs.
 - Learn how to model real-world problems using logical rules and facts.
-- Implement algorithms in Prolog.
 
 ## 📂 Progress & Topics Covered
 - [x] Introduction to Prolog (Facts, Rules, Queries)
